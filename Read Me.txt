@@ -1,0 +1,6 @@
+HOW TO USE:
+
+1. Run this source code in web server.
+2. Access the web via index.php
+3. Input total person will play the game.
+4. The card will distribute automatically for each person once you click "start game".
